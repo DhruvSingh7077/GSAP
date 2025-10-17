@@ -1,9 +1,11 @@
 import React from "react";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import gsap from "gsap";
+import { useGSAP } from "@gsap/react";
 import { featureLists, goodLists } from "../../constants";
 import { useMediaQuery } from "react-responsive";
 const Art = () => {
-  const isMobile = useMediaQuery({ maxwidth: 767 });
+  const isMobile = useMediaQuery({ maxWidth: 767 });
 
   useGSAP(() => {
     const start = isMobile ? "top 20%" : "top top";
