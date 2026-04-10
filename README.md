@@ -8,6 +8,12 @@ A visually engaging and highly interactive **frontend web application** built us
 
 🚀 https://gsap-kw34.vercel.app/
 
+## 📸 Screenshots
+
+## 📸 Screenshots
+
+### 🍹 Mojito Section
+![Mojito UI](public/readme/Mojito.png)
 ---
 
 ## 🧠 Overview
@@ -51,9 +57,6 @@ It showcases how animations can make websites more engaging, modern, and visuall
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots or GIFs here (VERY IMPORTANT)*
 
 ---
 
