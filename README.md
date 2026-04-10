@@ -1,16 +1,122 @@
-# React + Vite
+# 🎬 GSAP Animated Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually engaging and highly interactive **frontend web application** built using **React + Vite** and powered by **GSAP animations**. This project demonstrates advanced animation techniques and smooth user experiences for modern web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+🚀 https://gsap-kw34.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project focuses on creating **smooth, high-performance animations** using GSAP to enhance user interaction and UI experience.
+
+It showcases how animations can make websites more engaging, modern, and visually appealing.
+
+---
+
+## ⚙️ Tech Stack
+
+* **Frontend:** React (Vite)
+* **Animations:** GSAP (GreenSock Animation Platform)
+* **Styling:** CSS / Tailwind (if used)
+* **Deployment:** Vercel
+
+---
+
+## 🔥 Features
+
+### 🎯 Advanced Animations
+
+* Smooth transitions and timeline-based animations
+* Scroll-triggered animations
+* Element entrance & exit effects
+
+### ⚡ High Performance
+
+* Optimized animations using GSAP
+* Minimal lag and smooth rendering
+
+### 📱 Responsive Design
+
+* Works seamlessly across devices
+
+### 🎨 Modern UI/UX
+
+* Clean design with interactive visuals
+* Focus on user engagement
+
+---
+
+## 📸 Screenshots
+
+*Add screenshots or GIFs here (VERY IMPORTANT)*
+
+---
+
+## 🧩 Key GSAP Concepts Used
+
+* Timeline animations
+* ScrollTrigger (if used)
+* Stagger effects
+* Transform & opacity animations
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/gsap-project.git
+cd gsap-project
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the Project
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed on **Vercel**
+
+🔗 https://gsap-kw34.vercel.app/
+
+---
+
+## 📈 Future Improvements
+
+* Add more complex animations
+* Integrate 3D animations (Three.js)
+* Improve performance optimization
+* Add page transitions
+
+---
+
+## 👨‍💻 Author
+
+Dhruv Singh
+
+---
+
+## ⭐ Why This Project Stands Out
+
+* Demonstrates strong frontend skills
+* Shows practical GSAP usage (rare skill 🔥)
+* Focus on UI/UX and animation performance
+* Production-ready deployment
+
+---
